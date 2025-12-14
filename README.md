@@ -63,3 +63,5 @@ This design aligns with healthcare privacy requirements and GDPR-oriented constr
 💡 Interests: Federated Learning, Privacy-Preserving AI, Ethical & Human-Centered AI  
 🔧 Skills: Python, Machine Learning, Federated Learning, Data Analysis  
 
+🔗 LinkedIn: https://www.linkedin.com/in/tharun-kumar-reddy-6941a22a6/
+
